@@ -1,0 +1,5 @@
+venv
+virtualenv
+# .env Should be ignore if you put sensible data
+instance/config.py
+**/__pycache__
